@@ -1,11 +1,9 @@
-# HeadFirst-DesignPattern
+# HeadFirst-DesignPattern-Codes
 
 [헤드퍼스트 디자인패턴](http://www.yes24.com/Product/Goods/108192370) 속 예제 코드에 대한 레포지토리입니다.  
 [(내용과 개념을 정리한 레포지토리는 여기!)](https://github.com/IT-Book-Organization/HeadFirst-DesignPattern)
 
-### **📌** 헤드퍼스트 디자인패턴
-
----
+## **📌** 헤드퍼스트 디자인패턴
 
 1. [디자인 패턴 소개와 전략 패턴](/Chapter_1)
 2. 옵저버 패턴
