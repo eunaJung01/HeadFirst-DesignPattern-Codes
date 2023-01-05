@@ -15,6 +15,8 @@ public class Mocha extends CondimentDecorator {
 
     @Override
     public double cost() {
+        System.out.println("[ Mocha ] beverage size: " + beverage.getSize());
+
         // 먼저 장식하고 있는 객체에 작업을 위임한 다음, 그 결과에 더함
         return beverage.cost() + .20;
     }

@@ -13,6 +13,7 @@ public class Soy extends CondimentDecorator {
     }
 
     public double cost() {
+        System.out.println("[ Soy ] beverage size: " + beverage.getSize());
         double cost = beverage.cost();
         if (beverage.getSize() == Size.TALL) {
             cost += .10;
