@@ -1,9 +1,9 @@
 package Chapter_2;
 
-import Chapter_2.Observers.CurrentConditionsDisplay;
-import Chapter_2.Observers.ForecastDisplay;
-import Chapter_2.Observers.StatisticsDisplay;
-import Chapter_2.Subjects.WeatherData;
+import Chapter_2.observers.CurrentConditionsDisplay;
+import Chapter_2.observers.ForecastDisplay;
+import Chapter_2.observers.StatisticsDisplay;
+import Chapter_2.subjects.WeatherData;
 
 public class WeatherStation {
 

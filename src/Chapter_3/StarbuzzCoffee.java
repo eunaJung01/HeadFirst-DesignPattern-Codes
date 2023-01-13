@@ -1,13 +1,13 @@
 package Chapter_3;
 
-import Chapter_3.Beverages.Beverage;
-import Chapter_3.Beverages.DarkRoast;
-import Chapter_3.Beverages.Espresso;
-import Chapter_3.Beverages.HouseBlend;
-import Chapter_3.Condiments.Milk;
-import Chapter_3.Condiments.Mocha;
-import Chapter_3.Condiments.Soy;
-import Chapter_3.Condiments.Whip;
+import Chapter_3.beverages.Beverage;
+import Chapter_3.beverages.DarkRoast;
+import Chapter_3.beverages.Espresso;
+import Chapter_3.beverages.HouseBlend;
+import Chapter_3.condiments.Milk;
+import Chapter_3.condiments.Mocha;
+import Chapter_3.condiments.Soy;
+import Chapter_3.condiments.Whip;
 
 public class StarbuzzCoffee {
 

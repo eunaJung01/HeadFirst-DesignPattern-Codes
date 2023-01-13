@@ -1,9 +1,9 @@
 package Chapter_1;
 
-import Chapter_1.Ducks.Duck;
-import Chapter_1.Ducks.MallardDuck;
-import Chapter_1.Ducks.ModelDuck;
-import Chapter_1.Fly.FlyRocketPowered;
+import Chapter_1.ducks.Duck;
+import Chapter_1.ducks.MallardDuck;
+import Chapter_1.ducks.ModelDuck;
+import Chapter_1.fly.FlyRocketPowered;
 
 public class MiniDuckSimulator {
 
